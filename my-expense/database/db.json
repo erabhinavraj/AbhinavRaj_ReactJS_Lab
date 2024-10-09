@@ -1,0 +1,25 @@
+{
+  "expenses": [
+    {
+      "id": "c202",
+      "date": "2024-05-09",
+      "product": "supplies",
+      "price": "500",
+      "payee": "Rahul"
+    },
+    {
+      "id": "618a",
+      "date": "2024-05-08",
+      "product": "movie",
+      "price": "900",
+      "payee": "Ramesh"
+    },
+    {
+      "id": "e59e",
+      "date": "2024-05-04",
+      "product": "movie",
+      "price": "2000",
+      "payee": "Ramesh"
+    }
+  ]
+}

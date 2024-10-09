@@ -1,0 +1,91 @@
+
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+body {
+  background-color: #1a1a1a;
+  color: #f1f1f1;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.table-dark th,
+.table-dark td {
+  color: #f1f1f1;
+}
+
+.table-dark thead th {
+  border-bottom: 2px solid #444444;
+}
+
+.table-dark tbody tr:hover {
+  background-color: #333333;
+}
+
+.form-dark .form-control,
+.form-dark .form-control:focus {
+  background-color: #2a2a2a;
+  color: #f1f1f1;
+  border-color: #444444;
+}
+
+.form-dark .form-control::placeholder {
+  color: #888888;
+}
+
+.form-dark .form-control:focus {
+  box-shadow: none;
+}
+
+.btn-primary {
+  background-color: #4CAF50;
+  border-color: #4CAF50;
+}
+
+.btn-primary:hover {
+  background-color: #45a049;
+  border-color: #45a049;
+}
+
+.btn-primary:focus,
+.btn-primary:active {
+  background-color: #45a049 !important;
+  border-color: #45a049 !important;
+  box-shadow: none !important;
+}
+
+.totals p {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.add-link {
+  display: block;
+  width: 200px;
+  margin: 20px auto;
+  text-align: center;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+}
+
+.add-link:hover {
+  background-color: #0056b3;
+}
+
+.mt-4 {
+  margin-top: 1.5rem !important;
+}
+
+.mt-5 {
+  margin-top: 3rem !important;
+}
